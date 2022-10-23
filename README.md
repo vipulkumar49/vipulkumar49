@@ -13,11 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi there 👋, I'm Vipul Kumar</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulkumar49&label=Profile%20views&color=0e75b6&style=flat" alt="vipulkumar49" /> </p>
+<img src="https://raw.githubusercontent.com/vipulkumar49/vipulkumar49/master/.github/images/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vipulkumar49/count.svg" />
+</p>
 
 - 🔭 I’m currently working on [realtor](https://github.com/vipulkumar49/realtor)
 
