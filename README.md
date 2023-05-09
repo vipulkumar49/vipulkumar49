@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Vipul Kumar</h1>
-<h3 align="center">Fullstack Developer</h3>
 
 <img src="https://raw.githubusercontent.com/vipulkumar49/vipulkumar49/master/.github/images/banner.png" alt="Hello world">
 
