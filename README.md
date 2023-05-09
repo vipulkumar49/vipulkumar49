@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/vipulkumar49/vipulkumar49/master/.github/images/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vipulkumar49/count.svg" />
-</p>
-
 - 🔭 I’m currently working on [realtor](https://github.com/vipulkumar49/realtor)
 
 - 🌱 I’m currently learning **nextjs**
