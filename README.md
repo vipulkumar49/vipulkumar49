@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm Vipul Kumar</h1>
-
 <img src="https://raw.githubusercontent.com/vipulkumar49/vipulkumar49/master/.github/images/banner.png" alt="Hello world">
+<h1 align="center">Hi there 👋, I'm Vipul Kumar</h1>
 
 - 🔭 I’m currently working on [realtor](https://github.com/vipulkumar49/realtor)
 
