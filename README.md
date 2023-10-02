@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/vipulkumar49/vipulkumar49/master/.github/images/banner.png" alt="Hello world">
 <h1 align="center">Hi there 👋, I'm Vipul Kumar</h1>
-
-- 🔭 I’m currently working on [realtor](https://github.com/vipulkumar49/realtor)
-
-- 🌱 I’m currently learning **nextjs**
-
-- 💬 Ask me about **react**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vipulkumar49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vipulkumar49" height="30" width="40" /></a>
