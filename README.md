@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<span>Connect with me<span>
+<a href="https://dev.to/vipulkumar49" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="vipulkumar49" height="30" width="40" /></a>
 
-<h3 align="left">
-  <a href="https://dev.to/vipulkumar49" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="vipulkumar49" height="30" width="40" />
-    Connect with me 
-  </a>
-</h3>
 
 ![](https://komarev.com/ghpvc/?username=vipulkumar49&label=visitors&style=flat)
+
+
+
