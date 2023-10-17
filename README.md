@@ -19,5 +19,5 @@ Here are some ideas to get you started:
     Connect with me 
   </a>
 </h3>
-![](https://komarev.com/ghpvc/?username=vipulkumar49&label=Visitors&tyle=flat)
 
+![](https://komarev.com/ghpvc/?username=vipulkumar49&label=visitors&style=flat)
